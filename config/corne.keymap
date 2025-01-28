@@ -88,7 +88,7 @@
             key-positions = <5 17>;
         };
 
-        equal {
+        equals {
             bindings = <&kp EQUAL>;
             key-positions = <28 16>;
         };
